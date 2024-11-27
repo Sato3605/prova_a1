@@ -155,3 +155,4 @@ C:\Programacao\prova_a1\API\bin\Debug\net8.0\package-lock.json
 C:\Programacao\prova_a1\API\bin\Debug\net8.0\package.json
 C:\Programacao\prova_a1\API\bin\Debug\net8.0\public\manifest.json
 C:\Programacao\prova_a1\API\bin\Debug\net8.0\tsconfig.json
+C:\Programacao\prova_a1\API\obj\Debug\net8.0\API.sourcelink.json
